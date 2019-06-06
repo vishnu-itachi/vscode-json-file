@@ -1,0 +1,28 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 100,
+    "workbench.colorTheme": "Material Theme Palenight High Contrast",
+    "window.zoomLevel": 1,
+    "http.proxy": "http://172.16.2.30:8080",
+    "editor.formatOnSave": true,
+    "python.pythonPath": "/home/vishnu/anaconda3/bin/python",
+    "python.autoComplete.addBrackets": true,
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=PyQt5"
+    ],
+    "editor.fontFamily": "Courier New",
+    "editor.fontSize": 15,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "window.menuBarVisibility": "default",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.dataScience.sendSelectionToInteractiveWindow": true,
+    // "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=649dd1a749a6aa53cfcdbd1db6155635cf92f307b0e8f643",
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "C_Cpp.clang_format_style": "Visual Studio",
+    "clang.executable": "/usr/bin/clang",
+    "liveshare.connectionMode": "direct",
+    "workbench.statusBar.visible": true
+}
